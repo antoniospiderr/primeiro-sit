@@ -27,10 +27,12 @@ Geração de Saída: O PHP renderiza a página final do currículo, que pode ser
 
  ## Tecnologias Utilizadas 
 **Frontend:** HTML, CSS, JavaScript 
+
 **Backend:** PHP 
 
 ## Pré-requisitos
 Para executar este projeto localmente, você precisará de um ambiente de servidor web com suporte a PHP, como:
+
 **XAMPP**
 
 
